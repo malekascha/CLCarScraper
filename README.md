@@ -4,6 +4,8 @@ Retrieves listings and posts from Craigslist cars+trucks for sale section
 
 # How to use
 
+You must have Node.JS globally installed to use this scraper.
+
 First, install required dependencies:
 
 ```
