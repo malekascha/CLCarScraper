@@ -1,6 +1,7 @@
 {
   "name": "clscraper",
   "version": "1.0.0",
+  "repository": "https://github.com/malekascha/CLCarScraper.git",
   "description": "scrapes cl car listings",
   "main": "app.js",
   "dependencies": {
